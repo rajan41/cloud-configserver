@@ -10,7 +10,7 @@ eureka:
     hostname: localhost
     
     
-microservice :
+microservice:
   order-service:
      endpoints:
         endpoint:
